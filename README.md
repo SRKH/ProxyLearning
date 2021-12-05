@@ -5,6 +5,8 @@ The spiking neural network  is implemented using Spikingjelly package available 
 
 The notebook is adjusted to be run on Google colab. If you are going to run it on your local machine then you can skip the first cell.
 
+## Pretrained model
+
 The pretrained spiking neural (SNN) and its equivalent artificial neural network (ANN) are available in SNN_Params.pt and ANN_Params.pt files, respectively. You can download the pretrained model at https://www.dropbox.com/s/xhg0e2ndesqu5tj/Pretrained.zip?dl=0.
 
 ## The paper abstract:
