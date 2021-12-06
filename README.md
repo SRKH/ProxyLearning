@@ -8,6 +8,7 @@ The notebook is adjusted to be run on Google colab. If you are going to run it o
 ## Pretrained model
 
 The pretrained spiking neural network (SNN) and its equivalent artificial neural network (ANN) are available in SNN_Params.pt and ANN_Params.pt files, respectively. 
+
 You can download the pretrained model at https://www.dropbox.com/s/xhg0e2ndesqu5tj/Pretrained.zip?dl=0.
 
 ## Paper abstract:
